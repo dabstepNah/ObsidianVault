@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3Git/2Основные каоманды.md",
+                "file": "4Docker/1run.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2Основные каоманды"
+              "title": "1run"
             }
           }
         ]
@@ -185,7 +185,11 @@
   },
   "active": "f2968aaf9e298e97",
   "lastOpenFiles": [
+    "3Git/4Решение проблем.md",
+    "4Docker/1run.md",
+    "3Git/3Работа с удаленным репозитерием.md",
     "3Git/1Базовая настройка.md",
+    "3Git/2Основные каоманды.md",
     "1Linux/2Архивация и сжатие.md",
     "4Docker",
     "1Linux/3Флаги Linux.md",
