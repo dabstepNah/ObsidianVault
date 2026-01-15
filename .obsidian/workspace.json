@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2NetWorks/1Модель OSI (Open Systems Interconnection).md",
+                "file": "3Git/2Основные каоманды.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1Модель OSI (Open Systems Interconnection)"
+              "title": "2Основные каоманды"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -174,21 +174,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "f2968aaf9e298e97",
   "lastOpenFiles": [
+    "3Git/1Базовая настройка.md",
+    "1Linux/2Архивация и сжатие.md",
+    "4Docker",
+    "1Linux/3Флаги Linux.md",
     "2NetWorks/3VLAN.md",
+    "2NetWorks/2Стек TCP IP.md",
+    "2NetWorks/1Модель OSI (Open Systems Interconnection).md",
     "2NetWorks/4DNS.md",
     "1Linux/12Управление системой и службами.md",
-    "1Linux/6Права доступа и владельцы.md",
-    "1Linux/2Архивация и сжатие.md"
+    "1Linux/6Права доступа и владельцы.md"
   ]
 }
